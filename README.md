@@ -1,6 +1,6 @@
 # Terraform template
 
-[![Terraform CI](https://github.com/cimem/dns-terraform/actions/workflows/terraform-ci.yml/badge.svg)](https://github.com/cimem/dns-terraform/actions) [![Dependabot](https://img.shields.io/badge/Dependabot-active-025E8C?logo=dependabot)](https://github.com/YOUR_USERNAME/dns-terraform/network/updates)
+[![Terraform CI](https://github.com/CimeM/tf-infra-templates/actions/workflows/terraform-ci.yml/badge.svg)](https://github.com/CimeM/tf-infra-templates/actions) [![Dependabot](https://img.shields.io/badge/Dependabot-active-025E8C?logo=dependabot)](https://github.com/YOUR_USERNAME/dns-terraform/network/updates)
 
 ## Templates
 ### DNS
