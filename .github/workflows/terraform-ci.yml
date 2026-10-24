@@ -1,4 +1,4 @@
-name: Terraform CI & README Sync
+name: Lint
 
 on:
   push:
@@ -9,11 +9,8 @@ on:
 
 jobs:
   validate-and-sync:
-    name: Lint, Format & Sync README
+    name: Lint, Format
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # write to README
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
